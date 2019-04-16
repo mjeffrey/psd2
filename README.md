@@ -40,7 +40,6 @@ Polymorphic requests/responses of creates class names such as OneOfobjectupdateP
 Personally I don't think this is good API design but we are stuck with it.
 
 ### Property initialization  
-
 This means the project does not compile:
 for example 
 ```java  
@@ -52,6 +51,9 @@ In V3.3.4 this was initialized to null and so was OK.
 
 ### Duplicate parameters
 Warnings about duplicate parameters. I checked a few of these and they don't appear to be duplicates.
+Issue:
+<https://github.com/OpenAPITools/openapi-generator/issues/2631>
+
 
 ```
 [INFO] --- openapi-generator-maven-plugin:4.0.0-beta3:generate (ibis-psd2) @ psd2 ---
@@ -67,6 +69,8 @@ Errors:
 
 ## 3.3.4
 The generated code referenced a class with name UNKNOWN_BASE_TYPE.
+Issue:
+<https://github.com/OpenAPITools/openapi-generator/issues/2236>
 We could get 3.3.4 to compile and run by ignoring validations and by creating a class UNKNOWN_BASE_TYPE:
 
 ``` java
