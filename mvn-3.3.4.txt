@@ -1,0 +1,2362 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] --------------------------< com.example:psd2 >--------------------------
+[INFO] Building psd2 0.0.1-SNAPSHOT
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:3.1.0:clean (default-clean) @ psd2 ---
+[INFO] Deleting C:\Users\MarkJeffrey\dev\psd2\target
+[INFO] 
+[INFO] --- openapi-generator-maven-plugin:3.3.4:generate (ibis-psd2) @ psd2 ---
+[WARNING] Output directory does not exist, or is inaccessible. No file (.openapi-generator-ignore) will be evaluated.
+[INFO] ----------------------------------
+[INFO] Environment variable JAVA_POST_PROCESS_FILE not defined so the Java code may not be properly formatted. To define it, try 'export JAVA_POST_PROCESS_FILE="/usr/local/bin/clang-format -i"' (Linux/Mac)
+[INFO] NOTE: To enable file post-processing, 'enablePostProcessFile' must be set to `true` (--enable-post-process-file for CLI).
+[INFO] Invoker Package Name, originally not set, is now dervied from api package name: com.example.psd2.rest
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[INFO] Model paymentIdList not generated since it's an alias to array (without property)
+[INFO] Model consentIdList not generated since it's an alias to array (without property)
+[INFO] Model scaMethods not generated since it's an alias to array (without property)
+[INFO] Model authorisationsList not generated since it's an alias to array (without property)
+[INFO] Model transactionList not generated since it's an alias to array (without property)
+[INFO] Model cardTransactionList not generated since it's an alias to array (without property)
+[INFO] Model reportExchangeRateList not generated since it's an alias to array (without property)
+[INFO] Model balanceList not generated since it's an alias to array (without property)
+[INFO] Model cancellationList not generated since it's an alias to array (without property)
+[INFO] Model remittanceInformationUnstructuredArray not generated since it's an alias to array (without property)
+[INFO] Model periodicPaymentInitiationMultipartBody (marked as unused due to form parameters) is generated due to skipFormModel=false (default)
+[INFO] Model periodicPaymentInitiation_xml-Part2-standingorderType_json (marked as unused due to form parameters) is generated due to skipFormModel=false (default)
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\AccountAccess.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\AccountDetails.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\AccountList.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\AccountReference.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\AccountReport.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\AccountStatus.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Address.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Amount.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\AuthenticationObject.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\AuthenticationType.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Authorisations.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Balance.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\BalanceType.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\BulkPaymentInitiationJson.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\BulkPaymentInitiationWithStatusResponse.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\CardAccountDetails.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\CardAccountList.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\CardAccountReport.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\CardAccountsTransactionsResponse200.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\CardTransaction.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\ChallengeData.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\ChargeBearer.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\ChosenScaMethod.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\ConfirmationOfFunds.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\ConsentInformationResponse200Json.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\ConsentStatus.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\ConsentStatusResponse200.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Consents.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\ConsentsResponse201.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\DayOfExecution.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error400AIS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error400AISAdditionalErrors.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error400NGAIS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error400NGPIIS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error400NGPIS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error400NGSBS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error400PIIS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error400PIISAdditionalErrors.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error400PIS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error400PISAdditionalErrors.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error400SBS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error400SBSAdditionalErrors.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error401AIS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error401AISAdditionalErrors.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error401NGAIS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error401NGPIIS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error401NGPIS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error401NGSBS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error401PIIS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error401PIISAdditionalErrors.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error401PIS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error401PISAdditionalErrors.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error401SBS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error401SBSAdditionalErrors.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error403AIS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error403AISAdditionalErrors.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error403NGAIS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error403NGPIIS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error403NGPIS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error403NGSBS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error403PIIS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error403PIISAdditionalErrors.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error403PIS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error403PISAdditionalErrors.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error403SBS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error403SBSAdditionalErrors.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error404AIS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error404AISAdditionalErrors.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error404NGAIS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error404NGPIIS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error404NGPIS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error404NGSBS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error404PIIS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error404PIISAdditionalErrors.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error404PIS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error404PISAdditionalErrors.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error404SBS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error404SBSAdditionalErrors.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error405AIS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error405AISAdditionalErrors.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error405NGAIS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error405NGPIIS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error405NGPIS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error405NGPISCANC.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error405NGSBS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error405PIIS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error405PIISAdditionalErrors.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error405PIS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error405PISAdditionalErrors.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error405PISCANC.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error405PISCANCAdditionalErrors.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error405SBS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error405SBSAdditionalErrors.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error406AIS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error406AISAdditionalErrors.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error406NGAIS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error409AIS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error409AISAdditionalErrors.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error409NGAIS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error409NGPIIS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error409NGPIS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error409NGSBS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error409PIIS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error409PIISAdditionalErrors.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error409PIS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error409PISAdditionalErrors.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error409SBS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error409SBSAdditionalErrors.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error429AIS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error429AISAdditionalErrors.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\Error429NGAIS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\ExecutionRule.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\FrequencyCode.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\HrefType.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\InlineResponse200.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\LinksAccountDetails.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\LinksAccountReport.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\LinksAll.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\LinksCardAccountReport.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\LinksConsents.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\LinksDownload.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\LinksGetConsent.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\LinksPaymentInitiation.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\LinksPaymentInitiationCancel.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\LinksSelectPsuAuthenticationMethod.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\LinksSigningBasket.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\LinksStartScaProcess.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\LinksTransactionDetails.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\LinksUpdatePsuAuthentication.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\LinksUpdatePsuIdentification.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\MessageCode2XX.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\MessageCode400AIS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\MessageCode400PIIS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\MessageCode400PIS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\MessageCode400SBS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\MessageCode401AIS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\MessageCode401PIIS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\MessageCode401PIS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\MessageCode401SBS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\MessageCode403AIS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\MessageCode403PIIS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\MessageCode403PIS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\MessageCode403SBS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\MessageCode404AIS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\MessageCode404PIIS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\MessageCode404PIS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\MessageCode404SBS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\MessageCode405AIS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\MessageCode405PIIS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\MessageCode405PIS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\MessageCode405PISCANC.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\MessageCode405SBS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\MessageCode406AIS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\MessageCode409AIS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\MessageCode409PIIS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\MessageCode409PIS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\MessageCode409SBS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\MessageCode429AIS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\PaymentExchangeRate.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\PaymentInitationRequestResponse201.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\PaymentInitiationBulkElementJson.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\PaymentInitiationCancelResponse202.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\PaymentInitiationJson.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\PaymentInitiationStatusResponse200Json.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\PaymentInitiationWithStatusResponse.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\PeriodicPaymentInitiationJson.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\PeriodicPaymentInitiationMultipartBody.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\PeriodicPaymentInitiationWithStatusResponse.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\PeriodicPaymentInitiationXmlPart2StandingorderTypeJson.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\PsuData.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\PurposeCode.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\ReadAccountBalanceResponse200.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\ReadCardAccountBalanceResponse200.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\RemittanceInformationStructured.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\ReportExchangeRate.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\ScaStatus.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\ScaStatusResponse.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\SelectPsuAuthenticationMethod.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\SelectPsuAuthenticationMethodResponse.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\SigningBasket.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\SigningBasketResponse200.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\SigningBasketResponse201.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\SigningBasketStatusResponse200.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\StartScaprocessResponse.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\TppMessage2XX.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\TppMessage400AIS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\TppMessage400PIIS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\TppMessage400PIS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\TppMessage400SBS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\TppMessage401AIS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\TppMessage401PIIS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\TppMessage401PIS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\TppMessage401SBS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\TppMessage403AIS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\TppMessage403PIIS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\TppMessage403PIS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\TppMessage403SBS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\TppMessage404AIS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\TppMessage404PIIS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\TppMessage404PIS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\TppMessage404SBS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\TppMessage405AIS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\TppMessage405PIIS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\TppMessage405PIS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\TppMessage405PISCANC.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\TppMessage405SBS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\TppMessage406AIS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\TppMessage409AIS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\TppMessage409PIIS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\TppMessage409PIS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\TppMessage409SBS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\TppMessage429AIS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\TppMessageCategory.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\TransactionAuthorisation.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\TransactionDetails.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\TransactionStatus.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\TransactionStatusSBS.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\TransactionsResponse200Json.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\UpdatePsuAuthentication.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\UpdatePsuAuthenticationResponse.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\model\UpdatePsuIdenticationResponse.java
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] The following schema has undefined (null) baseType. It could be due to form parameter defined in OpenAPI v2 spec with incorrect consumes. A correct 'consumes' for form parameters should be 'application/x-www-form-urlencoded' or 'multipart/form-data'
+[WARNING] schema: class ComposedSchema {
+    class Schema {
+        title: null
+        multipleOf: null
+        maximum: null
+        exclusiveMaximum: null
+        minimum: null
+        exclusiveMinimum: null
+        maxLength: null
+        minLength: null
+        pattern: null
+        maxItems: null
+        minItems: null
+        uniqueItems: null
+        maxProperties: null
+        minProperties: null
+        required: null
+        type: null
+        not: null
+        properties: null
+        additionalProperties: null
+        description: null
+        format: null
+        $ref: null
+        nullable: null
+        readOnly: null
+        writeOnly: null
+        example: null
+        externalDocs: null
+        deprecated: null
+        discriminator: null
+        xml: null
+    }
+    allOf: null
+    anyOf: null
+    oneOf: [class Schema {
+        title: null
+        multipleOf: null
+        maximum: null
+        exclusiveMaximum: null
+        minimum: null
+        exclusiveMinimum: null
+        maxLength: null
+        minLength: null
+        pattern: null
+        maxItems: null
+        minItems: null
+        uniqueItems: null
+        maxProperties: null
+        minProperties: null
+        required: null
+        type: null
+        not: null
+        properties: null
+        additionalProperties: null
+        description: null
+        format: null
+        $ref: #/components/schemas/paymentInitiation_json
+        nullable: null
+        readOnly: null
+        writeOnly: null
+        example: null
+        externalDocs: null
+        deprecated: null
+        discriminator: null
+        xml: null
+    }, class Schema {
+        title: null
+        multipleOf: null
+        maximum: null
+        exclusiveMaximum: null
+        minimum: null
+        exclusiveMinimum: null
+        maxLength: null
+        minLength: null
+        pattern: null
+        maxItems: null
+        minItems: null
+        uniqueItems: null
+        maxProperties: null
+        minProperties: null
+        required: null
+        type: null
+        not: null
+        properties: null
+        additionalProperties: null
+        description: null
+        format: null
+        $ref: #/components/schemas/periodicPaymentInitiation_json
+        nullable: null
+        readOnly: null
+        writeOnly: null
+        example: null
+        externalDocs: null
+        deprecated: null
+        discriminator: null
+        xml: null
+    }, class Schema {
+        title: null
+        multipleOf: null
+        maximum: null
+        exclusiveMaximum: null
+        minimum: null
+        exclusiveMinimum: null
+        maxLength: null
+        minLength: null
+        pattern: null
+        maxItems: null
+        minItems: null
+        uniqueItems: null
+        maxProperties: null
+        minProperties: null
+        required: null
+        type: null
+        not: null
+        properties: null
+        additionalProperties: null
+        description: null
+        format: null
+        $ref: #/components/schemas/bulkPaymentInitiation_json
+        nullable: null
+        readOnly: null
+        writeOnly: null
+        example: null
+        externalDocs: null
+        deprecated: null
+        discriminator: null
+        xml: null
+    }]
+}
+[WARNING] codegenModel is null. Default to UNKNOWN_BASE_TYPE
+[WARNING] Multiple MediaTypes found, using only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] The following schema has undefined (null) baseType. It could be due to form parameter defined in OpenAPI v2 spec with incorrect consumes. A correct 'consumes' for form parameters should be 'application/x-www-form-urlencoded' or 'multipart/form-data'
+[WARNING] schema: class ComposedSchema {
+    class Schema {
+        title: null
+        multipleOf: null
+        maximum: null
+        exclusiveMaximum: null
+        minimum: null
+        exclusiveMinimum: null
+        maxLength: null
+        minLength: null
+        pattern: null
+        maxItems: null
+        minItems: null
+        uniqueItems: null
+        maxProperties: null
+        minProperties: null
+        required: null
+        type: null
+        not: null
+        properties: null
+        additionalProperties: null
+        description: null
+        format: null
+        $ref: null
+        nullable: null
+        readOnly: null
+        writeOnly: null
+        example: null
+        externalDocs: null
+        deprecated: null
+        discriminator: null
+        xml: null
+    }
+    allOf: null
+    anyOf: null
+    oneOf: [class Schema {
+        title: null
+        multipleOf: null
+        maximum: null
+        exclusiveMaximum: null
+        minimum: null
+        exclusiveMinimum: null
+        maxLength: null
+        minLength: null
+        pattern: null
+        maxItems: null
+        minItems: null
+        uniqueItems: null
+        maxProperties: null
+        minProperties: null
+        required: null
+        type: null
+        not: null
+        properties: null
+        additionalProperties: null
+        description: null
+        format: null
+        $ref: null
+        nullable: null
+        readOnly: null
+        writeOnly: null
+        example: null
+        externalDocs: null
+        deprecated: null
+        discriminator: null
+        xml: null
+    }, class Schema {
+        title: null
+        multipleOf: null
+        maximum: null
+        exclusiveMaximum: null
+        minimum: null
+        exclusiveMinimum: null
+        maxLength: null
+        minLength: null
+        pattern: null
+        maxItems: null
+        minItems: null
+        uniqueItems: null
+        maxProperties: null
+        minProperties: null
+        required: null
+        type: null
+        not: null
+        properties: null
+        additionalProperties: null
+        description: null
+        format: null
+        $ref: #/components/schemas/updatePsuAuthentication
+        nullable: null
+        readOnly: null
+        writeOnly: null
+        example: null
+        externalDocs: null
+        deprecated: null
+        discriminator: null
+        xml: null
+    }, class Schema {
+        title: null
+        multipleOf: null
+        maximum: null
+        exclusiveMaximum: null
+        minimum: null
+        exclusiveMinimum: null
+        maxLength: null
+        minLength: null
+        pattern: null
+        maxItems: null
+        minItems: null
+        uniqueItems: null
+        maxProperties: null
+        minProperties: null
+        required: null
+        type: null
+        not: null
+        properties: null
+        additionalProperties: null
+        description: null
+        format: null
+        $ref: #/components/schemas/selectPsuAuthenticationMethod
+        nullable: null
+        readOnly: null
+        writeOnly: null
+        example: null
+        externalDocs: null
+        deprecated: null
+        discriminator: null
+        xml: null
+    }, class Schema {
+        title: null
+        multipleOf: null
+        maximum: null
+        exclusiveMaximum: null
+        minimum: null
+        exclusiveMinimum: null
+        maxLength: null
+        minLength: null
+        pattern: null
+        maxItems: null
+        minItems: null
+        uniqueItems: null
+        maxProperties: null
+        minProperties: null
+        required: null
+        type: null
+        not: null
+        properties: null
+        additionalProperties: null
+        description: null
+        format: null
+        $ref: #/components/schemas/transactionAuthorisation
+        nullable: null
+        readOnly: null
+        writeOnly: null
+        example: null
+        externalDocs: null
+        deprecated: null
+        discriminator: null
+        xml: null
+    }]
+}
+[WARNING] codegenModel is null. Default to UNKNOWN_BASE_TYPE
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] The following schema has undefined (null) baseType. It could be due to form parameter defined in OpenAPI v2 spec with incorrect consumes. A correct 'consumes' for form parameters should be 'application/x-www-form-urlencoded' or 'multipart/form-data'
+[WARNING] schema: class ComposedSchema {
+    class Schema {
+        title: null
+        multipleOf: null
+        maximum: null
+        exclusiveMaximum: null
+        minimum: null
+        exclusiveMinimum: null
+        maxLength: null
+        minLength: null
+        pattern: null
+        maxItems: null
+        minItems: null
+        uniqueItems: null
+        maxProperties: null
+        minProperties: null
+        required: null
+        type: null
+        not: null
+        properties: null
+        additionalProperties: null
+        description: null
+        format: null
+        $ref: null
+        nullable: null
+        readOnly: null
+        writeOnly: null
+        example: null
+        externalDocs: null
+        deprecated: null
+        discriminator: null
+        xml: null
+    }
+    allOf: null
+    anyOf: null
+    oneOf: [class Schema {
+        title: null
+        multipleOf: null
+        maximum: null
+        exclusiveMaximum: null
+        minimum: null
+        exclusiveMinimum: null
+        maxLength: null
+        minLength: null
+        pattern: null
+        maxItems: null
+        minItems: null
+        uniqueItems: null
+        maxProperties: null
+        minProperties: null
+        required: null
+        type: null
+        not: null
+        properties: null
+        additionalProperties: null
+        description: null
+        format: null
+        $ref: null
+        nullable: null
+        readOnly: null
+        writeOnly: null
+        example: null
+        externalDocs: null
+        deprecated: null
+        discriminator: null
+        xml: null
+    }, class Schema {
+        title: null
+        multipleOf: null
+        maximum: null
+        exclusiveMaximum: null
+        minimum: null
+        exclusiveMinimum: null
+        maxLength: null
+        minLength: null
+        pattern: null
+        maxItems: null
+        minItems: null
+        uniqueItems: null
+        maxProperties: null
+        minProperties: null
+        required: null
+        type: null
+        not: null
+        properties: null
+        additionalProperties: null
+        description: null
+        format: null
+        $ref: #/components/schemas/updatePsuAuthentication
+        nullable: null
+        readOnly: null
+        writeOnly: null
+        example: null
+        externalDocs: null
+        deprecated: null
+        discriminator: null
+        xml: null
+    }, class Schema {
+        title: null
+        multipleOf: null
+        maximum: null
+        exclusiveMaximum: null
+        minimum: null
+        exclusiveMinimum: null
+        maxLength: null
+        minLength: null
+        pattern: null
+        maxItems: null
+        minItems: null
+        uniqueItems: null
+        maxProperties: null
+        minProperties: null
+        required: null
+        type: null
+        not: null
+        properties: null
+        additionalProperties: null
+        description: null
+        format: null
+        $ref: #/components/schemas/selectPsuAuthenticationMethod
+        nullable: null
+        readOnly: null
+        writeOnly: null
+        example: null
+        externalDocs: null
+        deprecated: null
+        discriminator: null
+        xml: null
+    }, class Schema {
+        title: null
+        multipleOf: null
+        maximum: null
+        exclusiveMaximum: null
+        minimum: null
+        exclusiveMinimum: null
+        maxLength: null
+        minLength: null
+        pattern: null
+        maxItems: null
+        minItems: null
+        uniqueItems: null
+        maxProperties: null
+        minProperties: null
+        required: null
+        type: null
+        not: null
+        properties: null
+        additionalProperties: null
+        description: null
+        format: null
+        $ref: #/components/schemas/transactionAuthorisation
+        nullable: null
+        readOnly: null
+        writeOnly: null
+        example: null
+        externalDocs: null
+        deprecated: null
+        discriminator: null
+        xml: null
+    }]
+}
+[WARNING] codegenModel is null. Default to UNKNOWN_BASE_TYPE
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] The following schema has undefined (null) baseType. It could be due to form parameter defined in OpenAPI v2 spec with incorrect consumes. A correct 'consumes' for form parameters should be 'application/x-www-form-urlencoded' or 'multipart/form-data'
+[WARNING] schema: class ComposedSchema {
+    class Schema {
+        title: null
+        multipleOf: null
+        maximum: null
+        exclusiveMaximum: null
+        minimum: null
+        exclusiveMinimum: null
+        maxLength: null
+        minLength: null
+        pattern: null
+        maxItems: null
+        minItems: null
+        uniqueItems: null
+        maxProperties: null
+        minProperties: null
+        required: null
+        type: null
+        not: null
+        properties: null
+        additionalProperties: null
+        description: null
+        format: null
+        $ref: null
+        nullable: null
+        readOnly: null
+        writeOnly: null
+        example: null
+        externalDocs: null
+        deprecated: null
+        discriminator: null
+        xml: null
+    }
+    allOf: null
+    anyOf: null
+    oneOf: [class Schema {
+        title: null
+        multipleOf: null
+        maximum: null
+        exclusiveMaximum: null
+        minimum: null
+        exclusiveMinimum: null
+        maxLength: null
+        minLength: null
+        pattern: null
+        maxItems: null
+        minItems: null
+        uniqueItems: null
+        maxProperties: null
+        minProperties: null
+        required: null
+        type: null
+        not: null
+        properties: null
+        additionalProperties: null
+        description: null
+        format: null
+        $ref: null
+        nullable: null
+        readOnly: null
+        writeOnly: null
+        example: null
+        externalDocs: null
+        deprecated: null
+        discriminator: null
+        xml: null
+    }, class Schema {
+        title: null
+        multipleOf: null
+        maximum: null
+        exclusiveMaximum: null
+        minimum: null
+        exclusiveMinimum: null
+        maxLength: null
+        minLength: null
+        pattern: null
+        maxItems: null
+        minItems: null
+        uniqueItems: null
+        maxProperties: null
+        minProperties: null
+        required: null
+        type: null
+        not: null
+        properties: null
+        additionalProperties: null
+        description: null
+        format: null
+        $ref: #/components/schemas/updatePsuAuthentication
+        nullable: null
+        readOnly: null
+        writeOnly: null
+        example: null
+        externalDocs: null
+        deprecated: null
+        discriminator: null
+        xml: null
+    }, class Schema {
+        title: null
+        multipleOf: null
+        maximum: null
+        exclusiveMaximum: null
+        minimum: null
+        exclusiveMinimum: null
+        maxLength: null
+        minLength: null
+        pattern: null
+        maxItems: null
+        minItems: null
+        uniqueItems: null
+        maxProperties: null
+        minProperties: null
+        required: null
+        type: null
+        not: null
+        properties: null
+        additionalProperties: null
+        description: null
+        format: null
+        $ref: #/components/schemas/selectPsuAuthenticationMethod
+        nullable: null
+        readOnly: null
+        writeOnly: null
+        example: null
+        externalDocs: null
+        deprecated: null
+        discriminator: null
+        xml: null
+    }, class Schema {
+        title: null
+        multipleOf: null
+        maximum: null
+        exclusiveMaximum: null
+        minimum: null
+        exclusiveMinimum: null
+        maxLength: null
+        minLength: null
+        pattern: null
+        maxItems: null
+        minItems: null
+        uniqueItems: null
+        maxProperties: null
+        minProperties: null
+        required: null
+        type: null
+        not: null
+        properties: null
+        additionalProperties: null
+        description: null
+        format: null
+        $ref: #/components/schemas/transactionAuthorisation
+        nullable: null
+        readOnly: null
+        writeOnly: null
+        example: null
+        externalDocs: null
+        deprecated: null
+        discriminator: null
+        xml: null
+    }]
+}
+[WARNING] codegenModel is null. Default to UNKNOWN_BASE_TYPE
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] The following schema has undefined (null) baseType. It could be due to form parameter defined in OpenAPI v2 spec with incorrect consumes. A correct 'consumes' for form parameters should be 'application/x-www-form-urlencoded' or 'multipart/form-data'
+[WARNING] schema: class ComposedSchema {
+    class Schema {
+        title: null
+        multipleOf: null
+        maximum: null
+        exclusiveMaximum: null
+        minimum: null
+        exclusiveMinimum: null
+        maxLength: null
+        minLength: null
+        pattern: null
+        maxItems: null
+        minItems: null
+        uniqueItems: null
+        maxProperties: null
+        minProperties: null
+        required: null
+        type: null
+        not: null
+        properties: null
+        additionalProperties: null
+        description: null
+        format: null
+        $ref: null
+        nullable: null
+        readOnly: null
+        writeOnly: null
+        example: null
+        externalDocs: null
+        deprecated: null
+        discriminator: null
+        xml: null
+    }
+    allOf: null
+    anyOf: null
+    oneOf: [class Schema {
+        title: null
+        multipleOf: null
+        maximum: null
+        exclusiveMaximum: null
+        minimum: null
+        exclusiveMinimum: null
+        maxLength: null
+        minLength: null
+        pattern: null
+        maxItems: null
+        minItems: null
+        uniqueItems: null
+        maxProperties: null
+        minProperties: null
+        required: null
+        type: null
+        not: null
+        properties: null
+        additionalProperties: null
+        description: null
+        format: null
+        $ref: null
+        nullable: null
+        readOnly: null
+        writeOnly: null
+        example: null
+        externalDocs: null
+        deprecated: null
+        discriminator: null
+        xml: null
+    }, class Schema {
+        title: null
+        multipleOf: null
+        maximum: null
+        exclusiveMaximum: null
+        minimum: null
+        exclusiveMinimum: null
+        maxLength: null
+        minLength: null
+        pattern: null
+        maxItems: null
+        minItems: null
+        uniqueItems: null
+        maxProperties: null
+        minProperties: null
+        required: null
+        type: null
+        not: null
+        properties: null
+        additionalProperties: null
+        description: null
+        format: null
+        $ref: #/components/schemas/updatePsuAuthentication
+        nullable: null
+        readOnly: null
+        writeOnly: null
+        example: null
+        externalDocs: null
+        deprecated: null
+        discriminator: null
+        xml: null
+    }, class Schema {
+        title: null
+        multipleOf: null
+        maximum: null
+        exclusiveMaximum: null
+        minimum: null
+        exclusiveMinimum: null
+        maxLength: null
+        minLength: null
+        pattern: null
+        maxItems: null
+        minItems: null
+        uniqueItems: null
+        maxProperties: null
+        minProperties: null
+        required: null
+        type: null
+        not: null
+        properties: null
+        additionalProperties: null
+        description: null
+        format: null
+        $ref: #/components/schemas/selectPsuAuthenticationMethod
+        nullable: null
+        readOnly: null
+        writeOnly: null
+        example: null
+        externalDocs: null
+        deprecated: null
+        discriminator: null
+        xml: null
+    }, class Schema {
+        title: null
+        multipleOf: null
+        maximum: null
+        exclusiveMaximum: null
+        minimum: null
+        exclusiveMinimum: null
+        maxLength: null
+        minLength: null
+        pattern: null
+        maxItems: null
+        minItems: null
+        uniqueItems: null
+        maxProperties: null
+        minProperties: null
+        required: null
+        type: null
+        not: null
+        properties: null
+        additionalProperties: null
+        description: null
+        format: null
+        $ref: #/components/schemas/transactionAuthorisation
+        nullable: null
+        readOnly: null
+        writeOnly: null
+        example: null
+        externalDocs: null
+        deprecated: null
+        discriminator: null
+        xml: null
+    }]
+}
+[WARNING] codegenModel is null. Default to UNKNOWN_BASE_TYPE
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] The following schema has undefined (null) baseType. It could be due to form parameter defined in OpenAPI v2 spec with incorrect consumes. A correct 'consumes' for form parameters should be 'application/x-www-form-urlencoded' or 'multipart/form-data'
+[WARNING] schema: class ComposedSchema {
+    class Schema {
+        title: null
+        multipleOf: null
+        maximum: null
+        exclusiveMaximum: null
+        minimum: null
+        exclusiveMinimum: null
+        maxLength: null
+        minLength: null
+        pattern: null
+        maxItems: null
+        minItems: null
+        uniqueItems: null
+        maxProperties: null
+        minProperties: null
+        required: null
+        type: null
+        not: null
+        properties: null
+        additionalProperties: null
+        description: null
+        format: null
+        $ref: null
+        nullable: null
+        readOnly: null
+        writeOnly: null
+        example: null
+        externalDocs: null
+        deprecated: null
+        discriminator: null
+        xml: null
+    }
+    allOf: null
+    anyOf: null
+    oneOf: [class Schema {
+        title: null
+        multipleOf: null
+        maximum: null
+        exclusiveMaximum: null
+        minimum: null
+        exclusiveMinimum: null
+        maxLength: null
+        minLength: null
+        pattern: null
+        maxItems: null
+        minItems: null
+        uniqueItems: null
+        maxProperties: null
+        minProperties: null
+        required: null
+        type: null
+        not: null
+        properties: null
+        additionalProperties: null
+        description: null
+        format: null
+        $ref: null
+        nullable: null
+        readOnly: null
+        writeOnly: null
+        example: null
+        externalDocs: null
+        deprecated: null
+        discriminator: null
+        xml: null
+    }, class Schema {
+        title: null
+        multipleOf: null
+        maximum: null
+        exclusiveMaximum: null
+        minimum: null
+        exclusiveMinimum: null
+        maxLength: null
+        minLength: null
+        pattern: null
+        maxItems: null
+        minItems: null
+        uniqueItems: null
+        maxProperties: null
+        minProperties: null
+        required: null
+        type: null
+        not: null
+        properties: null
+        additionalProperties: null
+        description: null
+        format: null
+        $ref: #/components/schemas/updatePsuAuthentication
+        nullable: null
+        readOnly: null
+        writeOnly: null
+        example: null
+        externalDocs: null
+        deprecated: null
+        discriminator: null
+        xml: null
+    }, class Schema {
+        title: null
+        multipleOf: null
+        maximum: null
+        exclusiveMaximum: null
+        minimum: null
+        exclusiveMinimum: null
+        maxLength: null
+        minLength: null
+        pattern: null
+        maxItems: null
+        minItems: null
+        uniqueItems: null
+        maxProperties: null
+        minProperties: null
+        required: null
+        type: null
+        not: null
+        properties: null
+        additionalProperties: null
+        description: null
+        format: null
+        $ref: #/components/schemas/selectPsuAuthenticationMethod
+        nullable: null
+        readOnly: null
+        writeOnly: null
+        example: null
+        externalDocs: null
+        deprecated: null
+        discriminator: null
+        xml: null
+    }, class Schema {
+        title: null
+        multipleOf: null
+        maximum: null
+        exclusiveMaximum: null
+        minimum: null
+        exclusiveMinimum: null
+        maxLength: null
+        minLength: null
+        pattern: null
+        maxItems: null
+        minItems: null
+        uniqueItems: null
+        maxProperties: null
+        minProperties: null
+        required: null
+        type: null
+        not: null
+        properties: null
+        additionalProperties: null
+        description: null
+        format: null
+        $ref: #/components/schemas/transactionAuthorisation
+        nullable: null
+        readOnly: null
+        writeOnly: null
+        example: null
+        externalDocs: null
+        deprecated: null
+        discriminator: null
+        xml: null
+    }]
+}
+[WARNING] codegenModel is null. Default to UNKNOWN_BASE_TYPE
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] The following schema has undefined (null) baseType. It could be due to form parameter defined in OpenAPI v2 spec with incorrect consumes. A correct 'consumes' for form parameters should be 'application/x-www-form-urlencoded' or 'multipart/form-data'
+[WARNING] schema: class ComposedSchema {
+    class Schema {
+        title: null
+        multipleOf: null
+        maximum: null
+        exclusiveMaximum: null
+        minimum: null
+        exclusiveMinimum: null
+        maxLength: null
+        minLength: null
+        pattern: null
+        maxItems: null
+        minItems: null
+        uniqueItems: null
+        maxProperties: null
+        minProperties: null
+        required: null
+        type: null
+        not: null
+        properties: null
+        additionalProperties: null
+        description: null
+        format: null
+        $ref: null
+        nullable: null
+        readOnly: null
+        writeOnly: null
+        example: null
+        externalDocs: null
+        deprecated: null
+        discriminator: null
+        xml: null
+    }
+    allOf: null
+    anyOf: null
+    oneOf: [class Schema {
+        title: null
+        multipleOf: null
+        maximum: null
+        exclusiveMaximum: null
+        minimum: null
+        exclusiveMinimum: null
+        maxLength: null
+        minLength: null
+        pattern: null
+        maxItems: null
+        minItems: null
+        uniqueItems: null
+        maxProperties: null
+        minProperties: null
+        required: null
+        type: null
+        not: null
+        properties: null
+        additionalProperties: null
+        description: null
+        format: null
+        $ref: null
+        nullable: null
+        readOnly: null
+        writeOnly: null
+        example: null
+        externalDocs: null
+        deprecated: null
+        discriminator: null
+        xml: null
+    }, class Schema {
+        title: null
+        multipleOf: null
+        maximum: null
+        exclusiveMaximum: null
+        minimum: null
+        exclusiveMinimum: null
+        maxLength: null
+        minLength: null
+        pattern: null
+        maxItems: null
+        minItems: null
+        uniqueItems: null
+        maxProperties: null
+        minProperties: null
+        required: null
+        type: null
+        not: null
+        properties: null
+        additionalProperties: null
+        description: null
+        format: null
+        $ref: #/components/schemas/updatePsuAuthentication
+        nullable: null
+        readOnly: null
+        writeOnly: null
+        example: null
+        externalDocs: null
+        deprecated: null
+        discriminator: null
+        xml: null
+    }, class Schema {
+        title: null
+        multipleOf: null
+        maximum: null
+        exclusiveMaximum: null
+        minimum: null
+        exclusiveMinimum: null
+        maxLength: null
+        minLength: null
+        pattern: null
+        maxItems: null
+        minItems: null
+        uniqueItems: null
+        maxProperties: null
+        minProperties: null
+        required: null
+        type: null
+        not: null
+        properties: null
+        additionalProperties: null
+        description: null
+        format: null
+        $ref: #/components/schemas/selectPsuAuthenticationMethod
+        nullable: null
+        readOnly: null
+        writeOnly: null
+        example: null
+        externalDocs: null
+        deprecated: null
+        discriminator: null
+        xml: null
+    }, class Schema {
+        title: null
+        multipleOf: null
+        maximum: null
+        exclusiveMaximum: null
+        minimum: null
+        exclusiveMinimum: null
+        maxLength: null
+        minLength: null
+        pattern: null
+        maxItems: null
+        minItems: null
+        uniqueItems: null
+        maxProperties: null
+        minProperties: null
+        required: null
+        type: null
+        not: null
+        properties: null
+        additionalProperties: null
+        description: null
+        format: null
+        $ref: #/components/schemas/transactionAuthorisation
+        nullable: null
+        readOnly: null
+        writeOnly: null
+        example: null
+        externalDocs: null
+        deprecated: null
+        discriminator: null
+        xml: null
+    }]
+}
+[WARNING] codegenModel is null. Default to UNKNOWN_BASE_TYPE
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] Multiple schemas found, returning only the first one
+[WARNING] The following schema has undefined (null) baseType. It could be due to form parameter defined in OpenAPI v2 spec with incorrect consumes. A correct 'consumes' for form parameters should be 'application/x-www-form-urlencoded' or 'multipart/form-data'
+[WARNING] schema: class ComposedSchema {
+    class Schema {
+        title: null
+        multipleOf: null
+        maximum: null
+        exclusiveMaximum: null
+        minimum: null
+        exclusiveMinimum: null
+        maxLength: null
+        minLength: null
+        pattern: null
+        maxItems: null
+        minItems: null
+        uniqueItems: null
+        maxProperties: null
+        minProperties: null
+        required: null
+        type: null
+        not: null
+        properties: null
+        additionalProperties: null
+        description: null
+        format: null
+        $ref: null
+        nullable: null
+        readOnly: null
+        writeOnly: null
+        example: null
+        externalDocs: null
+        deprecated: null
+        discriminator: null
+        xml: null
+    }
+    allOf: null
+    anyOf: null
+    oneOf: [class Schema {
+        title: null
+        multipleOf: null
+        maximum: null
+        exclusiveMaximum: null
+        minimum: null
+        exclusiveMinimum: null
+        maxLength: null
+        minLength: null
+        pattern: null
+        maxItems: null
+        minItems: null
+        uniqueItems: null
+        maxProperties: null
+        minProperties: null
+        required: null
+        type: null
+        not: null
+        properties: null
+        additionalProperties: null
+        description: null
+        format: null
+        $ref: null
+        nullable: null
+        readOnly: null
+        writeOnly: null
+        example: null
+        externalDocs: null
+        deprecated: null
+        discriminator: null
+        xml: null
+    }, class Schema {
+        title: null
+        multipleOf: null
+        maximum: null
+        exclusiveMaximum: null
+        minimum: null
+        exclusiveMinimum: null
+        maxLength: null
+        minLength: null
+        pattern: null
+        maxItems: null
+        minItems: null
+        uniqueItems: null
+        maxProperties: null
+        minProperties: null
+        required: null
+        type: null
+        not: null
+        properties: null
+        additionalProperties: null
+        description: null
+        format: null
+        $ref: #/components/schemas/updatePsuAuthentication
+        nullable: null
+        readOnly: null
+        writeOnly: null
+        example: null
+        externalDocs: null
+        deprecated: null
+        discriminator: null
+        xml: null
+    }, class Schema {
+        title: null
+        multipleOf: null
+        maximum: null
+        exclusiveMaximum: null
+        minimum: null
+        exclusiveMinimum: null
+        maxLength: null
+        minLength: null
+        pattern: null
+        maxItems: null
+        minItems: null
+        uniqueItems: null
+        maxProperties: null
+        minProperties: null
+        required: null
+        type: null
+        not: null
+        properties: null
+        additionalProperties: null
+        description: null
+        format: null
+        $ref: #/components/schemas/selectPsuAuthenticationMethod
+        nullable: null
+        readOnly: null
+        writeOnly: null
+        example: null
+        externalDocs: null
+        deprecated: null
+        discriminator: null
+        xml: null
+    }, class Schema {
+        title: null
+        multipleOf: null
+        maximum: null
+        exclusiveMaximum: null
+        minimum: null
+        exclusiveMinimum: null
+        maxLength: null
+        minLength: null
+        pattern: null
+        maxItems: null
+        minItems: null
+        uniqueItems: null
+        maxProperties: null
+        minProperties: null
+        required: null
+        type: null
+        not: null
+        properties: null
+        additionalProperties: null
+        description: null
+        format: null
+        $ref: #/components/schemas/transactionAuthorisation
+        nullable: null
+        readOnly: null
+        writeOnly: null
+        example: null
+        externalDocs: null
+        deprecated: null
+        discriminator: null
+        xml: null
+    }]
+}
+[WARNING] codegenModel is null. Default to UNKNOWN_BASE_TYPE
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\api\V1ApiController.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src\gen\java\main\com\example\psd2\rest\api\V1Api.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\src/gen/java/main\com\example\psd2\rest\api\ApiUtil.java
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\.openapi-generator-ignore
+[INFO] writing file C:\Users\MarkJeffrey\dev\psd2\target\generated-sources\openapi\.openapi-generator\VERSION
+[INFO] 
+[INFO] --- maven-resources-plugin:3.1.0:resources (default-resources) @ psd2 ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 1 resource
+[INFO] Copying 1 resource
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.8.0:compile (default-compile) @ psd2 ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 232 source files to C:\Users\MarkJeffrey\dev\psd2\target\classes
+[INFO] -------------------------------------------------------------
+[ERROR] COMPILATION ERROR : 
+[INFO] -------------------------------------------------------------
+[ERROR] /C:/Users/MarkJeffrey/dev/psd2/src/main/java/com/example/psd2/Error405PIIS.java:[41,32] cannot find symbol
+  symbol:   class HashMap
+  location: class com.example.psd2.Error405PIIS
+[INFO] 1 error
+[INFO] -------------------------------------------------------------
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD FAILURE
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  9.779 s
+[INFO] Finished at: 2019-04-16T11:46:13+02:00
+[INFO] ------------------------------------------------------------------------
+[ERROR] Failed to execute goal org.apache.maven.plugins:maven-compiler-plugin:3.8.0:compile (default-compile) on project psd2: Compilation failure
+[ERROR] /C:/Users/MarkJeffrey/dev/psd2/src/main/java/com/example/psd2/Error405PIIS.java:[41,32] cannot find symbol
+[ERROR]   symbol:   class HashMap
+[ERROR]   location: class com.example.psd2.Error405PIIS
+[ERROR] 
+[ERROR] -> [Help 1]
+[ERROR] 
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR] 
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException

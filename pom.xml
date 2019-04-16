@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-parent</artifactId>
+        <version>2.1.4.RELEASE</version>
+        <relativePath/> <!-- lookup parent from repository -->
+    </parent>
+    <groupId>com.example</groupId>
+    <artifactId>psd2</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+    <name>psd2</name>
+    <description>Demo project for Spring Boot</description>
+
+    <properties>
+        <java.version>1.8</java.version>
+        <swagger-core-version>1.5.22</swagger-core-version>
+
+        <openapi-generator.version>3.3.4</openapi-generator.version>
+<!--        <openapi-generator.version>4.0.0-beta3</openapi-generator.version>-->
+        <oltu-version>1.0.2</oltu-version>
+        <jackson-databind-nullable.version>0.1.0</jackson-databind-nullable.version>
+    </properties>
+
+    <dependencies>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-web</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>io.swagger</groupId>
+            <artifactId>swagger-annotations</artifactId>
+            <version>${swagger-core-version}</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.apache.oltu.oauth2</groupId>
+            <artifactId>org.apache.oltu.oauth2.client</artifactId>
+            <version>${oltu-version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.openapitools</groupId>
+            <artifactId>jackson-databind-nullable</artifactId>
+            <version>${jackson-databind-nullable.version}</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-test</artifactId>
+            <scope>test</scope>
+        </dependency>
+    </dependencies>
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-maven-plugin</artifactId>
+            </plugin>
+            <plugin>
+                <groupId>org.openapitools</groupId>
+                <artifactId>openapi-generator-maven-plugin</artifactId>
+                <version>${openapi-generator.version}</version>
+                <executions>
+                    <execution>
+                        <id>ibis-psd2</id>
+                        <goals>
+                            <goal>generate</goal>
+                        </goals>
+                        <configuration>
+                            <generatorName>spring</generatorName>
+                            <apiPackage>${project.groupId}.psd2.rest.api</apiPackage>
+                            <modelPackage>${project.groupId}.psd2.rest.model</modelPackage>
+
+                            <generateApiTests>false</generateApiTests>
+                            <generateModelDocumentation>false</generateModelDocumentation>
+                            <!--<generateSupportingFiles>false</generateSupportingFiles>-->
+                            <supportingFilesToGenerate>ApiUtil.java</supportingFilesToGenerate>
+                            <inputSpec>${basedir}/src/main/resources/openapi/psd2-api 1.3.3 20190412.yaml</inputSpec>
+                            <validateSpec>false</validateSpec>
+                            <configOptions>
+                                <dateLibrary>java8</dateLibrary>
+                                <language>spring</language>
+                                <sourceFolder>src/gen/java/main</sourceFolder>
+                            </configOptions>
+                            <skipOverwrite>true</skipOverwrite>
+                        </configuration>
+                    </execution>
+                </executions>
+            </plugin>
+        </plugins>
+    </build>
+
+</project>
